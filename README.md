@@ -3,6 +3,7 @@ Script busca no site da câmara a lista de presença dos deputados. A lista dos 
 
 # Requisitos
 `pip install requests`
+
 `pip install lxml`
 
 # Utilizando
