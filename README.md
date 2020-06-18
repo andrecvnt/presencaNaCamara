@@ -7,7 +7,7 @@ Script busca no site da câmara a lista de presença dos deputados. A lista dos 
 `pip install lxml`
 
 # Utilizando
-python detectaPresenca.py
+`python detectaPresenca.py`
 
 # Melhorias
 * Realizar o download dos IDs
