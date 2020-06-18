@@ -10,6 +10,6 @@ Script busca no site da câmara a lista de presença dos deputados. A lista dos 
 python detectaPresenca.py
 
 # Melhorias
--Realizar o download dos IDs
--Dar opções de selecionar o ano
--Gerar análises automatizadas
+* Realizar o download dos IDs
+* Dar opções de selecionar o ano
+* Gerar análises automatizadas
